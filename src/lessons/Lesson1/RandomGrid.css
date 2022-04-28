@@ -1,0 +1,6 @@
+.RandomGrid {
+    overflow: auto;
+    display: inline-flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
